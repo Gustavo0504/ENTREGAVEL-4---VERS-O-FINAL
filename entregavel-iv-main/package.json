@@ -1,0 +1,16 @@
+{
+  "name": "entregavel-iv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "implemente-aqui.js",
+  "type": "module",
+  "scripts": {
+    "atende-clientes": "node atende-clientes/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
